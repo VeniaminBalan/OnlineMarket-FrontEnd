@@ -3,11 +3,6 @@
 This project was created with [Angular CLI](https://github.com/angular/angular-cli) v 15.2.1.
 
 
-### Developers:
-🐻 `Brisc Dragos`<br />
-🤓 `Balan Veniamin` <br />
-🧚‍♀️️ `Chirita Ana-Maria`<br />
-👀 `Ababii Vicu-Marin`<br />
 
 ## TradeBox Idea
 
