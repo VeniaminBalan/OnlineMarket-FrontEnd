@@ -1,0 +1,21 @@
+.product {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+h2 {
+  margin-top: 0;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.example-card {
+  max-width: 300px;
+  min-width: 300px;
+}
+
+.example-header-image {
+  background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+  background-size: cover;
+}
